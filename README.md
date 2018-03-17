@@ -14,7 +14,7 @@ Odoo mobile platform is a alternative Odoo for mobile sponsor by W360S build on 
 Odoo mobile build up for both version CE & EE, you need basic knowledge about React to generate app by your self to become your own app.
 * Configuration
 * Dependencies:
-To buid it up to run with CE version you need more module for web_responsive from [Odoo OCA](https://github.com/OCA/web)
+To buid it up to good run with Odoo CE version you need more module for web_responsive from [Odoo OCA](https://github.com/OCA/web)
 * Database configuration
 * How to run tests
 * Deployment instructions
