@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Odoo mobile platform is a alternative Odoo for mobile sponsor by W360S build on React Native to generate for both android and ios. hope that community can give more hand to build it up bot befome first odoo mobile native app for all platform.
 
 ### What is this repository for? ###
 
